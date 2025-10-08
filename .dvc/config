@@ -1,0 +1,4 @@
+[core]
+    remote = mydropbox
+['remote "mydropbox"']
+    url = gdrive://data
